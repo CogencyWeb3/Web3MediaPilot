@@ -17,7 +17,7 @@
 ## Next steps
 
 
-Templates:
+### Templates:
 - https://github.com/paritytech/polkadot/blob/master/roadmap/parachains.md
 - https://github.com/paritytech/polkadot/tree/master/grafana
 
