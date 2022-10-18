@@ -1,7 +1,7 @@
 ## Application Document
 Please, provide a link to the merged contract (the .md file in the applications directory).
 
-# Milestone Number
+## Milestone Number
 1
 
 ## Aim 
