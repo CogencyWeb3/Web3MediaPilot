@@ -17,9 +17,9 @@ The first two sessions of the project were devoted to know what are the stakehol
 
 A focus group (1.1) was held to understand what is the outcome expected at the end of the project. There are 4 areas that participants wish to focus on:
 
-Get an understanding about Web3 and how to get buy-in from Senior Management
-Understand the business opportunities and use cases of Web3 in the field of Journalism
-Understand potential monetisation models
+1. Get an understanding about Web3 and how to get buy-in from Senior Management
+- Understand the business opportunities and use cases of Web3 in the field of Journalism
+- Understand potential monetisation models
 Clear definitions to inform/evangelise our members
 How to develop dynamic communities
 How to do data journalism with blockchain data
