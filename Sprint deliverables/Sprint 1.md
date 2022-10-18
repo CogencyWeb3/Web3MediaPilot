@@ -2,10 +2,10 @@
 
 ## Aim 
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| 1.1 | Content Cell  |
-| Content Cell  | Content Cell  |
+| Number        | Workshop      | Date         | Duration     |
+| ------------- | ------------- |------------- |------------- |
+| 1.1 | Intro session & Focus Group  |12.10.2022 - 4PM CET|60min|
+| 1.2 | Technology Introduction  |14.10.2022 - 11AM CET|90min|
 
 ## Metrics 
 
