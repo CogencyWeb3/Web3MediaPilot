@@ -4,7 +4,7 @@ Please, provide a link to the merged contract (the .md file in the applications 
 ## Milestone Number
 1
 
-## Aim 
+## Context (Aim) 
 
 | Number        | Workshop      | Date         | Duration     |
 | ------------- | ------------- |------------- |------------- |
