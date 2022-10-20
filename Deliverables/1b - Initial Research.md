@@ -148,16 +148,16 @@ This phase will last 4 weeks, and is meant to develop a common understanding of 
 This phase also serves as key concept sharing and agreeing direction of  tech products for the solution validation phase of the project based on research, workshops, interviews and analysis.
 
 - Week 1: Sprint & Technology Introduction
--- Goal: Develop a common understanding (DeFi, DAO, NFT, Parachains, Wallets, etc.) and get to know one another. Discuss the technology including interoperability, attribution of ownership, PoW vs. PoS, smart contracts, etc.
--- Activities: Interviews, web3 Foundation technology workshop.
+  - Goal: Develop a common understanding (DeFi, DAO, NFT, Parachains, Wallets, etc.) and get to know one another. Discuss the technology including interoperability, attribution of ownership, PoW vs. PoS, smart contracts, etc.
+  - Activities: Interviews, web3 Foundation technology workshop.
 
 - Week 2: Defining the Problem
--- Goal: Opportunity analysis and definition of the problem we are trying to solve.
--- Activities: Guided blue sky workshops on Trust, Governance and Commercial opportunities. Follow up Interviews. Case studies.
+  - Goal: Opportunity analysis and definition of the problem we are trying to solve.
+  - Activities: Guided blue sky workshops on Trust, Governance and Commercial opportunities. Follow up Interviews. Case studies.
 
 - Week 3: Defining the Opportunity
--- Goal: Follow on from Week 2, review the variety of options to solve the problem. Continue analysis of opportunities. Define the criteria for the radar chart for solution selection.
--- Activities: Brainstorming workshop based on the output of Week 2.
+  - Goal: Follow on from Week 2, review the variety of options to solve the problem. Continue analysis of opportunities. Define the criteria for the radar chart for solution selection.
+  - Activities: Brainstorming workshop based on the output of Week 2.
 
 
 - Week 4: Solution selection
@@ -173,20 +173,20 @@ This phase will last 4 weeks and is meant to validate the proposed solution, dri
 This phase will also develop a detailed technical product blueprint and draft business proposal for future rollout of a product. From this point, subgroups will be created based on the project needs. 
 
 - Week 5: Solution Assessment 
--- Goal: Assess the suitability of the proposed solution: does it really address the problem in a way that makes sense? Is it scalable? Other considerations? 
--- Activities: Interviews, workshops.
+  - Goal: Assess the suitability of the proposed solution: does it really address the problem in a way that makes sense? Is it scalable? Other considerations? 
+  - Activities: Interviews, workshops.
 
 - Week 6: Solution Detail
--- Goal: Further insights gathering from experts to outline the proposed solution. Risk assessment and solution feasibility in the market.
--- Activities: Interviews, workshops.
+  - Goal: Further insights gathering from experts to outline the proposed solution. Risk assessment and solution feasibility in the market.
+  - Activities: Interviews, workshops.
 
 - Week 7: Expert feedback and Solution Refinement
--- Goal: Continuation of the previous session to refine the solution.
--- Activities: Interviews, workshops.
+  - Goal: Continuation of the previous session to refine the solution.
+  - Activities: Interviews, workshops.
 
 - Week 8: Present Solution with a draft blueprint
--- Goal: A draft blueprint should be presented, and the last round of feedback will be gathered. 
--- Activities: Interviews, workshops.
+  - Goal: A draft blueprint should be presented, and the last round of feedback will be gathered. 
+  - Activities: Interviews, workshops.
 
 
 **Phase 3: Blueprint**
