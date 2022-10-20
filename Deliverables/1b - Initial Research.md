@@ -96,6 +96,7 @@ Based on the inputs of the first 2 workshops, a specific problem will be selecte
 - Contact Name: David Tomchak 
 - Contact Email: david@cogencylab.com 
 
+
 - Contact Name: Raúl Jaramillo
 - Contact Email: pm@cogencylab.com 
 
