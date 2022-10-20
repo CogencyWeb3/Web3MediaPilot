@@ -6,3 +6,4 @@ Useful info about Github:
 - Folder creation - https://www.alpharithms.com/how-to-create-a-folder-in-github-repos-463022/
 - Polkadot github - https://github.com/paritytech/polkadot
 - Icons: https://gist.github.com/rxaviers/7360908
+- Add Images: https://ardalis.com/add-images-easily-to-github/
