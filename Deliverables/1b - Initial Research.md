@@ -140,7 +140,7 @@ The project starts the week of October 10, 2022, with an estimated ending on the
 | Number        | Deliverable      | Specification         | 
 | ------------- | ------------- |------------- |
 | 1a. | Bursary Documentation  |We will provide documentation of the process and the fund allocation. The documentation provided for Milestone 1 will demonstrate how to work together on a research project in a decentralised way and can help guide future projects of a similar stakeholder complexity.|
-| 1b. | Initial Research  |An initial summary of the project plan (see specification of Milestone 2a) will be made available.|
+| 1b. | Initial Research  |An initial summary of the project plan (see specification of Milestones 2a. below) will be made available.|
 | 2a.1. | Sprint 1   |Sprint & Technology Introduction|
 | 2a.2. | Sprint 2    |Defining the Problem|
 | 2a.3. | Sprint 3   |Defining the Opportunity|
