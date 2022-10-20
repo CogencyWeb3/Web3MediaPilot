@@ -49,6 +49,49 @@ Based on the inputs of the first 2 workshops, a specific problem will be selecte
 
 ### Team Members 
 
+
+| Title        | Name      | Company         | 
+| ------------- | ------------- |------------- |
+| Project Director | David Tomchak  |Cogency|
+| Project Manager | Raúl Jaramillo  |Cogency|
+| Web3 Advisory | Raúl Jaramillo  |Cogency|
+| Web3 Advisory | Raúl Jaramillo  |Cogency|
+| Web3 Advisory | Raúl Jaramillo  |Cogency|
+| Key Stakeholder| Raúl Jaramillo  |Cogency|
+| Publisher Stakeholder | Raúl Jaramillo  |Cogency|
+| Publisher Stakeholder | Raúl Jaramillo  |Cogency|
+| Publisher Stakeholder | Raúl Jaramillo  |Cogency|
+| Tech Stakeholder | Raúl Jaramillo  |Cogency|
+| Publisher Stakeholder | Raúl Jaramillo  |Cogency|
+| Publisher Stakeholder | Raúl Jaramillo  |Cogency|
+| Tech Stakeholder | Raúl Jaramillo  |Cogency|
+| Tech Stakeholder | Raúl Jaramillo  |Cogency|
+| Tech Stakeholder | Raúl Jaramillo  |Cogency|
+| Publisher Stakeholder | Raúl Jaramillo  |Cogency|
+| Publisher Stakeholder | Raúl Jaramillo  |Cogency|
+| Publisher Stakeholder | Raúl Jaramillo  |Cogency|
+| Publisher Stakeholder | Raúl Jaramillo  |Cogency|
+| Publisher Stakeholder | Raúl Jaramillo  |Cogency|
+| Publisher Stakeholder | Raúl Jaramillo  |Cogency|
+| Publisher Stakeholder | Raúl Jaramillo  |Cogency|
+| Publisher Stakeholder | Raúl Jaramillo  |Cogency|
+| Publisher Stakeholder | Raúl Jaramillo  |Cogency|
+| Publisher Stakeholder | Raúl Jaramillo  |Cogency|
+| Publisher Stakeholder | Raúl Jaramillo  |Cogency|
+| Publisher Stakeholder | Raúl Jaramillo  |Cogency|
+| Diversity Advisor | Raúl Jaramillo  |Cogency|
+| Web3 Advisory | Raúl Jaramillo  |Cogency|
+| Web3 Advisory | Raúl Jaramillo  |Cogency|
+| Publisher Stakeholder | Raúl Jaramillo  |Cogency|
+| Web3 Advisory | Raúl Jaramillo  |Cogency|
+| Web3 Advisory | Raúl Jaramillo  |Cogency|
+| Web3 Advisory | Raúl Jaramillo  |Cogency|
+| Web3 Advisory | Raúl Jaramillo  |Cogency|
+| Web3 Advisory | Raúl Jaramillo  |Cogency|
+| Web3 Advisory | Raúl Jaramillo  |Cogency|
+| Web3 Advisory | Raúl Jaramillo  |Cogency|
+
+
 ### Contact
 - Contact Name: David Tomchak 
 - Contact Email: david@cogencylab.com 
