@@ -80,8 +80,8 @@ https://github.com/CogencyWeb3/Web3MediaPilot
 
 ### Overview
 
-- ** Total Estimated Duration:** 10 weeks
-- ** Full-time equivalent (FTE):** 8
+- **Total Estimated Duration:** 10 weeks
+- **Full-time equivalent (FTE):** 8
 
 The project starts the week of October 10, 2022, with an estimated ending on the week of December 12, 2022. The project is divided into 3 phases:
 
