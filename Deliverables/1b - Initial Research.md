@@ -54,42 +54,42 @@ Based on the inputs of the first 2 workshops, a specific problem will be selecte
 | ------------- | ------------- |------------- |
 | Project Director | David Tomchak  |Cogency|
 | Project Manager | Raúl Jaramillo  |Cogency|
-| Web3 Advisory | Úrsula O'Kuinghttons  |Cogency|
-| Web3 Advisory | Radhakrishna Dasari   |Cogency|
-| Web3 Advisory | Walid Al-Saqaf  |Cogency|
-| Key Stakeholder| Stephen Fozard   |Cogency|
-| Publisher Stakeholder | Ciara Byrne  |Cogency|
-| Publisher Stakeholder | Siobhan Keam  |Cogency|
-| Publisher Stakeholder | Rose Duchatellier  |Cogency|
-| Tech Stakeholder | James Mawson  |Cogency|
-| Publisher Stakeholder | Heino Schaght  |Cogency|
-| Publisher Stakeholder | Pieter Desmet  |Cogency|
-| Tech Stakeholder | Massimo Barsotti  |Cogency|
-| Tech Stakeholder | Cristiano Meda  |Cogency|
-| Tech Stakeholder | Brian Alford  |Cogency|
-| Publisher Stakeholder | Jessica Landon  |Cogency|
-| Publisher Stakeholder | Charles Yardley  |Cogency|
-| Publisher Stakeholder | Aram Zucker-Scharff   |Cogency|
-| Publisher Stakeholder | Emily Liu  |Cogency|
-| Publisher Stakeholder | Davis Shaver  |Cogency|
-| Publisher Stakeholder | Holden Foreman  |Cogency|
-| Publisher Stakeholder | Jatin Chauhan  |Cogency|
-| Publisher Stakeholder | Jane Barrett  |Cogency|
-| Publisher Stakeholder | Sophie Cassam  |Cogency|
-| Publisher Stakeholder | Violaine Degas  |Cogency|
-| Publisher Stakeholder | Ana Soares  |Cogency|
-| Publisher Stakeholder | Guida Pinto  |Cogency|
-| Diversity Advisor | Ramaa Sharma  |Cogency|
-| Web3 Advisory | Ann Grimes  |Cogency|
-| Web3 Advisory | Sophie Marie Jones  |Cogency|
-| Publisher Stakeholder | Carsten Moenning  |Cogency|
-| Web3 Advisory | Kaitlin Donovan   |Cogency|
-| Web3 Advisory | Brynn  |Cogency|
-| Web3 Advisory | Laurie Segall |Cogency|
-| Web3 Advisory | Gopal Patel  |Cogency|
-| Web3 Advisory | Charlotte Tree  |Cogency|
-| Web3 Advisory | Brownrygg Woolls   |Cogency|
-| Web3 Advisory | Roisin  |Cogency|
+| Web3 Advisory | Úrsula O'Kuinghttons  |Web3 Foundation|
+| Web3 Advisory | Radhakrishna Dasari   |Web3 Foundation|
+| Web3 Advisory | Walid Al-Saqaf  |Södertörn University|
+| Key Stakeholder| Stephen Fozard   |WAN-IFRA |
+| Publisher Stakeholder | Ciara Byrne  |Condé nast|
+| Publisher Stakeholder | Siobhan Keam  |Condé nast|
+| Publisher Stakeholder | Rose Duchatellier  |Condé nast|
+| Tech Stakeholder | James Mawson  |Global Corp. Venturing|
+| Publisher Stakeholder | Heino Schaght  |MediaHuis|
+| Publisher Stakeholder | Pieter Desmet  |MediaHuis|
+| Tech Stakeholder | Massimo Barsotti  |EidosMedia|
+| Tech Stakeholder | Cristiano Meda  |EidosMedia|
+| Tech Stakeholder | Brian Alford  |Bright Sites|
+| Publisher Stakeholder | Jessica Landon  |Evening Standard|
+| Publisher Stakeholder | Charles Yardley  |Evening Standard|
+| Publisher Stakeholder | Aram Zucker-Scharff   |The Washington Post|
+| Publisher Stakeholder | Emily Liu  |The Washington Post|
+| Publisher Stakeholder | Davis Shaver  |The Washington Post|
+| Publisher Stakeholder | Holden Foreman  |The Washington Post|
+| Publisher Stakeholder | Jatin Chauhan  |The Washington Post|
+| Publisher Stakeholder | Jane Barrett  |Reuters|
+| Publisher Stakeholder | Sophie Cassam  |Reuters|
+| Publisher Stakeholder | Violaine Degas  |Le Parisien|
+| Publisher Stakeholder | Ana Soares  |Público|
+| Publisher Stakeholder | Guida Pinto  |Público|
+| Diversity Advisor | Ramaa Sharma  |Ramaa Sharma|
+| Web3 Advisory | Ann Grimes  |Stanford|
+| Web3 Advisory | Sophie Marie Jones  |Stanford|
+| Publisher Stakeholder | Carsten Moenning  |Bertlesman|
+| Web3 Advisory | Kaitlin Donovan   |Filecoin|
+| Web3 Advisory | Brynn  |Filecoin|
+| Web3 Advisory | Laurie Segall |Dotdotdot|
+| Web3 Advisory | Gopal Patel  |Esya and Ground|
+| Web3 Advisory | Charlotte Tree  |Esya and Ground|
+| Web3 Advisory | Brownrygg Woolls   |Esya and Ground|
+| Web3 Advisory | Roisin  |Verifoxx|
 
 
 ### Contact
