@@ -140,7 +140,7 @@ The project starts the week of October 10, 2022, with an estimated ending on the
 The project will be run in week-by-week sprints with associated deliverables, which are a weekly update and go/no go for the next sprint. The output of the sprints will form the deliverables for milestones 2a.1 to 2a.8. Sprints will culminate in a blueprint (2b.) outlining what the proposed solution is based on the team’s research. The blueprint will be stored on github for public access. 
 
 
-## Timeline
+### Timeline
 
 **Phase 1: Design Thinking**
 This phase will last 4 weeks, and is meant to develop a common understanding of the opportunity through panel discussions for iteration and discovery of the problem we are trying to solve. Once the problem is clearly identified, there will be further discussions about possible solutions, and finally a proposed solution will be selected based on KPIs (e.g. time, complexity, profitability, etc.).
@@ -193,6 +193,6 @@ This phase will also develop a detailed technical product blueprint and draft bu
 The last two weeks of the project (Week 9 and 10)  will be dedicated to refine the Blueprint which will include a Business Plan, and they will be also used to gather extra feedback from stakeholders and schedule any extra workshop needed.
 
 
-### Future Plans  :sparkler: :fireworks:
+### Future Plans  :sparkler: 
 The main outcome of the research portion of the pilot is to provide learning and a space to share knowledge between media and Web3 industries. However, the blueprint will include a roadmap for technical build and a plan for securing investment for any product suggestions. Based on this, the hope is to finance, build and launch a new product in H1 of 2023. This is phase 2 of the project. Longer term we hope phase 2 is a success in helping develop trust and increase revenue for the media and news industries in a way that is sustainable and equitable.
 
