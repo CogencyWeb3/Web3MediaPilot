@@ -137,6 +137,20 @@ The project starts the week of October 10, 2022, with an estimated ending on the
 
 ### Milestones
 
+| Number        | Deliverable      | Specification         | 
+| ------------- | ------------- |------------- |
+| 1a. | Bursary Documentation  |We will provide documentation of the process and the fund allocation. The documentation provided for Milestone 1 will demonstrate how to work together on a research project in a decentralised way and can help guide future projects of a similar stakeholder complexity.|
+| 1b. | Initial Research  |An initial summary of the project plan (see specification of Milestone 2a) will be made available.|
+| 2a.1. | Sprint 1   |Sprint & Technology Introduction|
+| 2a.2. | Sprint 2    |Defining the Problem|
+| 2a.3. | Sprint 3   |Defining the Opportunity|
+| 2a.4. | Sprint 4   |Solution selection |
+| 2a.5. | Sprint 5   |Solution Assessment |
+| 2a.6. | Sprint 6   |Solution Detail|
+| 2a.7. | Sprint 7   |Expert feedback and Solution Refinement|
+| 2a.8. | Sprint 8   |Present Solution with a draft blueprint|
+| 2b. | Blueprint  |Final Blueprint including the Business Plan|
+
 The project will be run in week-by-week sprints with associated deliverables, which are a weekly update and go/no go for the next sprint. The output of the sprints will form the deliverables for milestones 2a.1 to 2a.8. Sprints will culminate in a blueprint (2b.) outlining what the proposed solution is based on the team’s research. The blueprint will be stored on github for public access. 
 
 
