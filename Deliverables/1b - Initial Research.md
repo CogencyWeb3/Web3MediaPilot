@@ -134,3 +134,65 @@ The project starts the week of October 10, 2022, with an estimated ending on the
 3. Blueprint: weeks 9 and 10.
 
 <img width="610" alt="image" src="https://user-images.githubusercontent.com/114009050/197067076-584d34f9-7ef2-4ead-bc26-2ee56e5a3b08.png">
+
+### Milestones
+
+The project will be run in week-by-week sprints with associated deliverables, which are a weekly update and go/no go for the next sprint. The output of the sprints will form the deliverables for milestones 2a.1 to 2a.8. Sprints will culminate in a blueprint (2b.) outlining what the proposed solution is based on the team’s research. The blueprint will be stored on github for public access. 
+
+
+## Timeline
+
+**Phase 1: Design Thinking**
+This phase will last 4 weeks, and is meant to develop a common understanding of the opportunity through panel discussions for iteration and discovery of the problem we are trying to solve. Once the problem is clearly identified, there will be further discussions about possible solutions, and finally a proposed solution will be selected based on KPIs (e.g. time, complexity, profitability, etc.).
+
+This phase also serves as key concept sharing and agreeing direction of  tech products for the solution validation phase of the project based on research, workshops, interviews and analysis.
+
+- Week 1: Sprint & Technology Introduction
+-- Goal: Develop a common understanding (DeFi, DAO, NFT, Parachains, Wallets, etc.) and get to know one another. Discuss the technology including interoperability, attribution of ownership, PoW vs. PoS, smart contracts, etc.
+-- Activities: Interviews, web3 Foundation technology workshop.
+
+- Week 2: Defining the Problem
+-- Goal: Opportunity analysis and definition of the problem we are trying to solve.
+-- Activities: Guided blue sky workshops on Trust, Governance and Commercial opportunities. Follow up Interviews. Case studies.
+
+- Week 3: Defining the Opportunity
+-- Goal: Follow on from Week 2, review the variety of options to solve the problem. Continue analysis of opportunities. Define the criteria for the radar chart for solution selection.
+-- Activities: Brainstorming workshop based on the output of Week 2.
+
+
+- Week 4: Solution selection
+-- Goal: Select the solution based on the radar chart, and get the assessment on Web3 Foundation.
+-- Activities: Interviews, workshop, go/ no go for Phase 2 (see below). 
+-- Risk: An idea isn’t suitable enough to move the project forward.
+-- Mitigation plan: Re-run Week 3 and Week 4 together to agree on a proposed solution. 
+
+
+**Phase 2: Solution Validation**
+This phase will last 4 weeks and is meant to validate the proposed solution, drilling down into the detail of impact, risks and opportunities. There will be a refinement of the proposed solution, and analysis of both quantitative and qualitative research from the stakeholders. Finally, expert insights will be gathered in the form of diagrams, flows and charts.
+
+This phase will also develop a detailed technical product blueprint and draft business proposal for future rollout of a product. From this point, subgroups will be created based on the project needs. 
+
+- Week 5: Solution Assessment 
+-- Goal: Assess the suitability of the proposed solution: does it really address the problem in a way that makes sense? Is it scalable? Other considerations? 
+-- Activities: Interviews, workshops.
+
+- Week 6: Solution Detail
+-- Goal: Further insights gathering from experts to outline the proposed solution. Risk assessment and solution feasibility in the market.
+-- Activities: Interviews, workshops.
+
+- Week 7: Expert feedback and Solution Refinement
+-- Goal: Continuation of the previous session to refine the solution.
+-- Activities: Interviews, workshops.
+
+- Week 8: Present Solution with a draft blueprint
+-- Goal: A draft blueprint should be presented, and the last round of feedback will be gathered. 
+-- Activities: Interviews, workshops.
+
+
+**Phase 3: Blueprint**
+The last two weeks of the project (Week 9 and 10)  will be dedicated to refine the Blueprint which will include a Business Plan, and they will be also used to gather extra feedback from stakeholders and schedule any extra workshop needed.
+
+
+### Future Plans  :sparkler: :fireworks:
+The main outcome of the research portion of the pilot is to provide learning and a space to share knowledge between media and Web3 industries. However, the blueprint will include a roadmap for technical build and a plan for securing investment for any product suggestions. Based on this, the hope is to finance, build and launch a new product in H1 of 2023. This is phase 2 of the project. Longer term we hope phase 2 is a success in helping develop trust and increase revenue for the media and news industries in a way that is sustainable and equitable.
+
