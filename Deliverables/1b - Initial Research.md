@@ -1,7 +1,7 @@
 # W3F Grant Proposal
-* **Project Name:** Cogency
-* **Team Name:** Cogency
-* **Payment Address:** XXXXX
+- **Project Name:** Cogency
+- **Team Name:** Cogency
+- **Payment Address:** XXXXX
 
 
 ## Project Overview :page_facing_up:
@@ -53,43 +53,40 @@ Based on the inputs of the first 2 workshops, a specific problem will be selecte
 - Contact Name: David Tomchak 
 - Contact Email: david@cogencylab.com 
 
-Contact Name: Raúl Jaramillo
-Contact Email: pm@cogencylab.com 
+- Contact Name: Raúl Jaramillo
+- Contact Email: pm@cogencylab.com 
 
-
-Legal Structure
-
+### Legal Structure
 No legal entity
 
-
-Team’s experience
+### Team’s experience
 
 David Tomchak has more than 15 years of experience in the Media industry, leading digital teams for well-known brands such as BBC and Evening Standard.
 
 Raúl Jaramillo has led digital development projects for The Independent, Evening Standard, inews or The Scotsman, to name a few. 
 
-Team LinkedIn Profiles
+### Team LinkedIn Profiles
 
-* David Tomchack: https://www.linkedin.com/in/davidtomchak/ 
-* Raúl Jaramillo: https://www.linkedin.com/in/rauljaramillo/ 
+- David Tomchack: https://www.linkedin.com/in/davidtomchak/ 
+- Raúl Jaramillo: https://www.linkedin.com/in/rauljaramillo/ 
 
 
-Team Code Repos
+### Team Code Repos
 
 https://github.com/CogencyWeb3/Web3MediaPilot
 
 
-Development Roadmap
+## Development Roadmap :bullettrain_front:
 
-Overview
+### Overview
 
-Total Estimated Duration: 10 weeks
-Full-time equivalent (FTE): 8
+- ** Total Estimated Duration:** 10 weeks
+- ** Full-time equivalent (FTE):** 8
 
 The project starts the week of October 10, 2022, with an estimated ending on the week of December 12, 2022. The project is divided into 3 phases:
 
-Design Thinking: weeks 1 to 4.
-Solution Validation: weeks 5 to 8.
-Blueprint: weeks 9 and 10.
+1. Design Thinking: weeks 1 to 4.
+2. Solution Validation: weeks 5 to 8.
+3. Blueprint: weeks 9 and 10.
 
 
