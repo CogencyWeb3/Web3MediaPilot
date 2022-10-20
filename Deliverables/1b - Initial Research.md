@@ -207,6 +207,6 @@ This phase will also develop a detailed technical product blueprint and draft bu
 The last two weeks of the project (Week 9 and 10)  will be dedicated to refine the Blueprint which will include a Business Plan, and they will be also used to gather extra feedback from stakeholders and schedule any extra workshop needed.
 
 
-### Future Plans  :sparkler: 
+## Future Plans  :sparkler: 
 The main outcome of the research portion of the pilot is to provide learning and a space to share knowledge between media and Web3 industries. However, the blueprint will include a roadmap for technical build and a plan for securing investment for any product suggestions. Based on this, the hope is to finance, build and launch a new product in H1 of 2023. This is phase 2 of the project. Longer term we hope phase 2 is a success in helping develop trust and increase revenue for the media and news industries in a way that is sustainable and equitable.
 
