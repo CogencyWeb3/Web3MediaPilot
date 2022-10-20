@@ -161,10 +161,10 @@ This phase also serves as key concept sharing and agreeing direction of  tech pr
 
 
 - Week 4: Solution selection
--- Goal: Select the solution based on the radar chart, and get the assessment on Web3 Foundation.
--- Activities: Interviews, workshop, go/ no go for Phase 2 (see below). 
--- Risk: An idea isn’t suitable enough to move the project forward.
--- Mitigation plan: Re-run Week 3 and Week 4 together to agree on a proposed solution. 
+ - Goal: Select the solution based on the radar chart, and get the assessment on Web3 Foundation.
+ - Activities: Interviews, workshop, go/ no go for Phase 2 (see below). 
+ - Risk: An idea isn’t suitable enough to move the project forward.
+ - Mitigation plan: Re-run Week 3 and Week 4 together to agree on a proposed solution. 
 
 
 **Phase 2: Solution Validation**
