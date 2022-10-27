@@ -1,8 +1,6 @@
 # W3F Grant Proposal
 - **Project Name:** Cogency
 - **Team Name:** Cogency
-- **Payment Address:** XXXXX
-
 
 ## Project Overview :page_facing_up:
 
