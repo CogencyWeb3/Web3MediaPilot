@@ -144,6 +144,7 @@ The project will be run in week-by-week sprints with associated deliverables, wh
 ### Timeline
 
 **Phase 1: Design Thinking**
+
 This phase will last 4 weeks, and is meant to develop a common understanding of the opportunity through panel discussions for iteration and discovery of the problem we are trying to solve. Once the problem is clearly identified, there will be further discussions about possible solutions, and finally a proposed solution will be selected based on KPIs (e.g. time, complexity, profitability, etc.).
 
 This phase also serves as key concept sharing and agreeing direction of  tech products for the solution validation phase of the project based on research, workshops, interviews and analysis.
@@ -168,6 +169,7 @@ This phase also serves as key concept sharing and agreeing direction of  tech pr
 
 
 **Phase 2: Solution Validation**
+
 This phase will last 4 weeks and is meant to validate the proposed solution, drilling down into the detail of impact, risks and opportunities. There will be a refinement of the proposed solution, and analysis of both quantitative and qualitative research from the stakeholders. Finally, expert insights will be gathered in the form of diagrams, flows and charts.
 
 This phase will also develop a detailed technical product blueprint and draft business proposal for future rollout of a product. From this point, subgroups will be created based on the project needs. 
@@ -190,6 +192,7 @@ This phase will also develop a detailed technical product blueprint and draft bu
 
 
 **Phase 3: Blueprint**
+
 The last two weeks of the project (Week 9 and 10)  will be dedicated to refine the Blueprint which will include a Business Plan, and they will be also used to gather extra feedback from stakeholders and schedule any extra workshop needed.
 
 
