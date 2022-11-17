@@ -141,7 +141,7 @@ To get a sense of the group’s interests, a survey has been carried out among t
 #### Needs & Opportunities:      
 - Misinformation / security of people sharing content: Ability to share without jeopardising your own integrity.
 - Helping validation on social events (elections, etc.) through electronic devices. 
-- As an example, (electronic tattoos will replace smartphones)[https://traveltomorrow.com/electronic-tattoos-will-replace-smartphones-says-bill-gates/], but this can also happen replacing personal identities.
+- As an example, [electronic tattoos will replace smartphones](https://traveltomorrow.com/electronic-tattoos-will-replace-smartphones-says-bill-gates/), but this can also happen replacing personal identities.
 
 #### Mechanisms:      
 - Verifying the source of an article/photo straight away - sent to the blockchain to the immutable ledger.
