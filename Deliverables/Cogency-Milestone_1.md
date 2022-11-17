@@ -15,7 +15,7 @@
 
 | Number | Deliverable | Link | Notes |
 | ------------- | ------------- | ------------- |------------- |
-| 1a. | Bursary Documentation | [https://github.com/CogencyWeb3/Web3MediaPilot/blob/main/Deliverables/Cogency-Deliverable_1b.md](https://github.com/CogencyWeb3/Web3MediaPilot/blob/main/Deliverables/Cogency-Deliverable_1a.md)| Documentation of the process and the fund allocation, which demonstrates how to work together on a research project in a decentralised way and can help guide future projects of a similar stakeholder complexity.| 
-| 1b.  | Initial Research |[https://github.com/CogencyWeb3/Web3MediaPilot/blob/main/Deliverables/Cogency-Deliverable_1b.md](https://github.com/CogencyWeb3/Web3MediaPilot/blob/main/Deliverables/Cogency-Deliverable_1b.md)| An initial summary of the project plan will be made available.| 
+| 1a. | Bursary Documentation | [222](https://github.com/CogencyWeb3/Web3MediaPilot/blob/main/Deliverables/Cogency-Deliverable_1a.md)| Documentation of the process and the fund allocation, which demonstrates how to work together on a research project in a decentralised way and can help guide future projects of a similar stakeholder complexity.| 
+| 1b.  | Initial Research |[2222](https://github.com/CogencyWeb3/Web3MediaPilot/blob/main/Deliverables/Cogency-Deliverable_1b.md)| An initial summary of the project plan will be made available.| 
 
 
