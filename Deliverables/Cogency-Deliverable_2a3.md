@@ -89,34 +89,48 @@ To get a sense of the group’s interests, a survey has been carried out among t
 ### Monetisation     
 
 #### Users:      
-- Content creators, included but not limited to: [writing NFTs](https://dev.mirror.xyz/5gt60vKFJZ_tR1BjoJ7-Y0sNw7REebStHjzFU5x73J0), web browser producers, [social media posts](https://www.nytimes.com/2017/06/30/opinion/social-data-google-facebook-europe.html)
-- Content consumers, including end users and influencers to boost the [network effect](https://www.investopedia.com/terms/n/network-effect.asp).
+- Most of the previous users still apply. For monetisation, special emphasis on:
+  - Large Advertisers both agencies & corporations/brands 
+  - Small Advertisers - Local news, which have a twofold role: creating and sharing.
+  - Collectors, creating network effects to unfold new sources of revenue
      
 #### Needs & Opportunities:      
-- Content creators, included but not limited to: writing NFTs, web browser producers, social media posts 
-- Content consumers, including end users and influencers to boost the network effect.
+- Package data/content by removing major blockers to deliver the article. Pre rendered content to areas with low Internet connectivity.
+- Prevention of abuse of central platforms. This will allow win-win situations for both platforms & users.
+- Speed increase from a process point of view (eliminating the middlemen) rather than from the connectivity per se.
+- Micropayments
 
 #### Mechanisms:      
-- Content creators, included but not limited to: writing NFTs, web browser producers, social media posts 
-- Content consumers, including end users and influencers to boost the network effect.
+- Pay to play / Pay to read. This model hasn’t worked yet because the user is not incentivized enough and it’s difficult to implement. It has two dimensions:
+  - Decentralised payments. The company pays the content creator in a decentralised way (crypto) to avoid capital control issues (e.g. Ukraine war).
+  - Loyalty points earned by reading content to engage end users to increase trust. It’s not just about the points, but to understand the user needs based on the metadata you are getting from them. This will allow us to tailor the content we offer. 
+- Gamification. Based on current experience, possibly is not the best course of action. 
+- Data:
+  - Users need to have control over their own data. The most important data is the one the user volunteers to share. 
+  - Business models based on wrong variables due to  information overflow. More isn’t better: we need to understand the key variables that drive customer expenditure.
+  - Contextual and behavioural data (e.g. if a user has shared an article or not, if the article has been read or not)  is more useful than demographic data (e.g. gender, age, location).
+- Time difference between publishing time and when the article gets most of the traffic. We should ensure the content creator is being paid during this time.
 
 #### Technologies:      
-- Content creators, included but not limited to: writing NFTs, web browser producers, social media posts 
-- Content consumers, including end users and influencers to boost the network effect.
+- Blockchain tokens
+- Seamless, invisible and transparent.
+- Simple. We need to avoid the 40+ steps to buy a token from Civil (lessons learned) 
+- Easy to integrate with CMSs, with  risk of adding a certain degree of (needed) centralisation. The CMS should be only used for content creation and the result injected in the chain
+- Open source
 
 #### Challenges:      
-- Content creators, included but not limited to: writing NFTs, web browser producers, social media posts 
-- Content consumers, including end users and influencers to boost the network effect.
-
+- Taxation and legal jurisdiction are not there yet. Unknowns about what can be done without getting into trouble.
+- Token volatility as the means to run processes. 
 
 #### Products & Results:      
-- Content creators, included but not limited to: writing NFTs, web browser producers, social media posts 
-- Content consumers, including end users and influencers to boost the network effect.
-   
+- Incentivizing participation. Products like [Google Bulletin](https://www.failory.com/google/bulletin#:~:text=Description,quality%20websites%20for%20small%20businesses.) or  Nextdoor are interesting when you think about rewarding higher quality information sharing and curation.
+- [Friends with Benefits](https://www.fwb.help/) - [V.I.P. lounge for crypto’s creative class](https://www.nytimes.com/2022/03/02/technology/friends-with-benefits-crypto-dao.html?unlocked_article_code=zdCUKFJU9JyB-Ei2aPkllPk0DtEWrLOHpRI3UYbYWl79_FOSFCr-N1GddrTyeZu1nOICfntaOlAcu2Dx12lRN0vG3I8iOV5-VoxgmxYyI8d8m8m8_4o92CUpQgvWlb9vkmLLY-OvQ6FqSMeYiLXqvtjatHy5c89AxAym6HsFR3PyrcwcQ6_v2fRLA6EJQTGSQ66Q1azhenYmvgW32T80bDcayPLF8KkeOi2v-Av9oYwOwNKVWg81JC0cB0l5M2rOdpsqBpmwDe2Hga00pEb-ycsx2pkJCO7T96glhfGaX7pnTMiPaXfGwkrHY9lz5RShbzEQmm9f-REXQy2tblzn2fQV42W_omQAq_5u8MI&smid=share-url)
+- We have a decentralised network with nodes across the world, can we monetise some sort of knowledge transfer? Web2 can cover this, but currently with middlemen.
+- A couple of examples:
+  - Human resources with some spare time. 
+  - A photojournalist can then be shared from company X to company Y in an easier way.
+- [Coil](https://coil.com/)
 
-
-
- 
 ### Verification     
 
 #### Users:      
