@@ -5,7 +5,7 @@
 We will provide documentation of the process and the fund allocation. 
 Author: Stephen Fozard, Project Director, Global Alliance for Media Innovation (GAMI) at WAN-IFRA.
 
-## Context 
+## Rationale and Measurable Goal 
 Cogency aims to research and try to understand the implications of Web3 for publishers in the future. It is therefore crucial to involve content producers and publishers as soon as possible in the process. 
 However, many media organisations don’t have enough time and resources to put towards research and development work, not to mention that Web3 and its potential implications might not even be high on their agendas.
 
