@@ -46,14 +46,32 @@ To get a sense of the group’s interests, a survey has been carried out among t
 - Direct & Indirect audiences
 - Social platforms: Facebook, Twitter, Youtube & Google. Each of them with their own policies and strategies.
      
+#### Users:      
+- Content creators, included but not limited to: writing NFTs, web browser producers, social media posts 
+- Content consumers, including end users and influencers to boost the network effect.
 
-Mechanism     
+#### Mechanisms:      
+- Content creators, included but not limited to: writing NFTs, web browser producers, social media posts 
+- Content consumers, including end users and influencers to boost the network effect.
 
-Technologies     
+#### Technologies:      
+- Content creators, included but not limited to: writing NFTs, web browser producers, social media posts 
+- Content consumers, including end users and influencers to boost the network effect.
 
-Challenges    
+#### Challenges:      
+- Content creators, included but not limited to: writing NFTs, web browser producers, social media posts 
+- Content consumers, including end users and influencers to boost the network effect.
 
-Products & Results   
+
+#### Products & Results:      
+- Content creators, included but not limited to: writing NFTs, web browser producers, social media posts 
+- Content consumers, including end users and influencers to boost the network effect.
+
+    
+
+   
+
+   
 
 
 
