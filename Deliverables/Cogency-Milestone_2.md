@@ -12,5 +12,16 @@ The second milestone encompass the last part of the project. It will be run in w
 
 | Number | Deliverable | Link | Notes |
 | ------------- | ------------- | ------------- |------------- |
-| 2a.1 | Bursary Documentation | [Bursary Documentation](https://github.com/CogencyWeb3/Web3MediaPilot/blob/main/Deliverables/Cogency-Deliverable_1a.md)| Documentation of the process and the fund allocation, which demonstrates how to work together on a research project in a decentralised way and can help guide future projects of a similar stakeholder complexity.| 
+| 2a.1 | Bursary Documentation | | Documentation of the process and the fund allocation, which demonstrates how to work together on a research project in a decentralised way and can help guide future projects of a similar stakeholder complexity.| 
 | 1b.  | Initial Research |[Initial Research](https://github.com/CogencyWeb3/Web3MediaPilot/blob/main/Deliverables/Cogency-Deliverable_1b.md)| An initial summary of the project plan will be made available.| 
+
+
+| 2a.1. | Sprint 1   | [Sprint & Technology Introduction](https://github.com/CogencyWeb3/Web3MediaPilot/blob/main/Deliverables/Cogency-Deliverable_2a1.md)|    
+| 2a.2. | Sprint 2   |Defining the Problem| [Defining the Problem](https://github.com/CogencyWeb3/Web3MediaPilot/blob/main/Deliverables/Cogency-Deliverable_2a2.md)|   
+| 2a.3. | Sprint 3   |Defining the Opportunity| [Defining the Opportunity](https://github.com/CogencyWeb3/Web3MediaPilot/blob/main/Deliverables/Cogency-Deliverable_2a3.md)|   
+| 2a.4. | Sprint 4   |Solution Selection | [Solution Selection](https://github.com/CogencyWeb3/Web3MediaPilot/blob/main/Deliverables/Cogency-Deliverable_2a4.md)|   
+| 2a.5. | Sprint 5   |Solution Assessment | [Solution Assessment](https://github.com/CogencyWeb3/Web3MediaPilot/blob/main/Deliverables/Cogency-Deliverable_2a5.md)|   
+| 2a.6. | Sprint 6   |Solution Detail| [Solution Detail](https://github.com/CogencyWeb3/Web3MediaPilot/blob/main/Deliverables/Cogency-Deliverable_2a6.md)|   
+| 2a.7. | Sprint 7   |Expert feedback and Solution Refinement| [Expert feedback and Solution Refinement](https://github.com/CogencyWeb3/Web3MediaPilot/blob/main/Deliverables/Cogency-Deliverable_2a7.md)|   
+| 2a.8. | Sprint 8   |Present Solution with a draft blueprint| [Present Solution with a draft blueprint](https://github.com/CogencyWeb3/Web3MediaPilot/blob/main/Deliverables/Cogency-Deliverable_2a8.md)|   
+| 2b.   | Blueprint  |Final Blueprint including the Business Plan| [Final Blueprint including the Business Plan](https://github.com/CogencyWeb3/Web3MediaPilot/blob/main/Deliverables/Cogency-Deliverable_2b.md)|   
