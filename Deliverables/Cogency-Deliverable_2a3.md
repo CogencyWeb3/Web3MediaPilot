@@ -164,7 +164,7 @@ To get a sense of the group’s interests, a survey has been carried out among t
 
 #### Users:      
 - Most of the previous users still apply. For monetisation, special emphasis on:
-  - Academics (see opportunities).
+  - Academics
   - It tends to be internal rather than open to a wider audience (external).
      
 #### Needs & Opportunities:      
