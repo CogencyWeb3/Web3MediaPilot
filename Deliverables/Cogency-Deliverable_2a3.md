@@ -222,7 +222,7 @@ To get a sense of the group’s interests, a survey has been carried out among t
 - Media consumption may not be through current browsers, but they need to be compatible with them.
 
 #### Products & Results:      
--  New production frameworks handled by smart contracts to perform:
+- New production frameworks handled by smart contracts to perform:
   - Admin work: payroll, payments, etc.
   - Legal work: following an automated process pipeline depending on the area the asset is in: photography, article, etc. to make things crystal clear to everyone since the very beginning. This will allow us to scale the business easier with the same amount of fixed assets.
 
