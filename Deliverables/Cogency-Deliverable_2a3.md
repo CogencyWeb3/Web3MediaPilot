@@ -163,32 +163,38 @@ To get a sense of the group’s interests, a survey has been carried out among t
 ### Archiving     
 
 #### Users:      
-- Content creators, included but not limited to: [writing NFTs](https://dev.mirror.xyz/5gt60vKFJZ_tR1BjoJ7-Y0sNw7REebStHjzFU5x73J0), web browser producers, [social media posts](https://www.nytimes.com/2017/06/30/opinion/social-data-google-facebook-europe.html)
-- Content consumers, including end users and influencers to boost the [network effect](https://www.investopedia.com/terms/n/network-effect.asp).
+- Most of the previous users still apply. For monetisation, special emphasis on:
+  - Academics (see opportunities).
+  - It tends to be internal rather than open to a wider audience (external).
      
 #### Needs & Opportunities:      
-- Content creators, included but not limited to: writing NFTs, web browser producers, social media posts 
-- Content consumers, including end users and influencers to boost the network effect.
+- Nowadays, not every asset is digitalised, and it’s done based on certain criteria. Blockchain can help with doing it in a more automated way for referencing it.
+- Ownership, not only internally but also as [NFTs](https://artifact.scmp.com/).
+- Transparency
+- Research
+- Timeliness
+- Immutability of the archive
+- Machine Learning: Building models with past data (archive) to train your model and provide better results for user recommendations. Drawback: computer power? Difficulty in tagging?
+- The power is not in the data itself but in the metadata: tags, etc.
+- Packaging & Distribution & Presentation of the archive for Monetisation purposes. For instance, a company called [Distributed Media Lab](https://www.distributedmedialab.com/) is converting AMP files to monetised feeds to be sold (Archiving + Monetisation).
 
 #### Mechanisms:      
-- Content creators, included but not limited to: writing NFTs, web browser producers, social media posts 
-- Content consumers, including end users and influencers to boost the network effect.
+- Right to correct
+- Right to forget
+- We need to be able to correct the archive if there’s an issue. Possible without too much of a hassle?
+- Web ARChive file format ([WARC](https://www.loc.gov/preservation/digital/formats/fdd/fdd000236.shtml)) as a method for combining multiple digital resources into an aggregate archival file together with related information.
 
 #### Technologies:      
-- Content creators, included but not limited to: writing NFTs, web browser producers, social media posts 
-- Content consumers, including end users and influencers to boost the network effect.
+- Most of the previous technologies still apply. 
 
 #### Challenges:      
-- Content creators, included but not limited to: writing NFTs, web browser producers, social media posts 
-- Content consumers, including end users and influencers to boost the network effect.
-
+- Decentralised DBs not there yet. Not enough confidence.
+- Filtering issues are making it complicated: (year, area, etc.), and the blockchain can help with that.
 
 #### Products & Results:      
-- Content creators, included but not limited to: writing NFTs, web browser producers, social media posts 
-- Content consumers, including end users and influencers to boost the network effect.
-
-
-
+- Peer review. [Press forward](https://wordpress.org/plugins/pressforward/), where professors discuss content internally with private commenting, getting feedback before publishing the piece of media.
+- [The Wayback Machine](https://archive.org/web/)
+- [WARC files applications files](https://archive-it.org/blog/post/the-stack-warc-file/). Every archived file from the browser is a WARC file in the Web Archive's database.
 
 ### Production     
 
