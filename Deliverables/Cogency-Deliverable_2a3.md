@@ -1,7 +1,7 @@
-## Milestone Number
+## Deliverable Number
 2a.3
 
-## Context (Aim) 
+## Context
 
 | Number        | Workshop      | Date         | Duration     |
 | ------------- | ------------- |------------- |------------- |
