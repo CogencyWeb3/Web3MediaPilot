@@ -38,12 +38,12 @@ To get a sense of the group’s interests, a survey has been carried out among t
 ### Sharing & Distribution      
 
 #### Users:      
-- Content creators, included but not limited to: writing NFTs, web browser producers, social media posts 
-- Content consumers, including end users and influencers to boost the network effect.
+- Content creators, included but not limited to: [writing NFTs](https://dev.mirror.xyz/5gt60vKFJZ_tR1BjoJ7-Y0sNw7REebStHjzFU5x73J0), web browser producers, [social media posts](https://www.nytimes.com/2017/06/30/opinion/social-data-google-facebook-europe.html)
+- Content consumers, including end users and influencers to boost the [network effect](https://www.investopedia.com/terms/n/network-effect.asp).
 - News & Government Agencies
 - Corporations
 - Media organisations
-- Direct & Indirect audiences
+- [Direct & Indirect audiences](https://feelgoodretail.com/2021/03/18/the-audience-ecosystem-direct-and-indirect-audiences/)
 - Social platforms: Facebook, Twitter, Youtube & Google. Each of them with their own policies and strategies.
      
 #### Users:      
