@@ -138,7 +138,7 @@ The project starts the week of October 10, 2022, with an estimated ending on the
 | 2a.8. | Sprint 8   |Present Solution with a draft blueprint|
 | 2b. | Blueprint  |Final Blueprint including the Business Plan|
 
-The project will be run in week-by-week sprints with associated deliverables, which include a weekly update and go/no go for the next sprint. The output of the sprints will form the deliverables for milestones 2a.1 to 2a.8. Sprints will culminate in a blueprint (2b.) outlining what the proposed solution is based on the team’s research. The blueprint will be stored on github for public access. 
+The project will be run in week-by-week sprints with associated deliverables, which include a weekly update and go/no go for the next sprint. The output of the sprints will form the deliverables 2a.1 to 2a.8. Sprints will culminate in a blueprint (2b.) outlining what the proposed solution is based on the team’s research. The blueprint will be stored on github for public access. 
 
 
 ### Timeline
