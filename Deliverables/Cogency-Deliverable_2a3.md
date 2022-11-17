@@ -82,8 +82,8 @@ To get a sense of the group’s interests, a survey has been carried out among t
 #### Products & Results:      
 - Improved registration and paywalls to tailor the user experience. Web3 can bring one set of content/services tailored to each user, and a membership rather than a subscription. Subscribers can discuss between them and with journalists on next features, services and topics to include in the subscription offer.
 - Web3 powered newsletters: 
- - [Joining Web2 & Web3](https://paragraph.xyz/)
- - [Dirt](https://dirt.fyi/), a web3 native publication run in Ethereum
+  - [Joining Web2 & Web3](https://paragraph.xyz/)
+  - [Dirt](https://dirt.fyi/), a web3 native publication run in Ethereum
 - [pubDAO](https://pubdao.co/): A media DAO seeking to redefine media production and distribution using web3 tools. 
 
 ### Monetisation     
