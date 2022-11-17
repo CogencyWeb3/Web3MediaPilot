@@ -35,9 +35,9 @@ To get a sense of the group’s interests, a survey has been carried out among t
 <img width="355" alt="image" src="https://user-images.githubusercontent.com/114009050/202560713-715d5c97-aab7-4fad-bfed-7fa2b3e6e36a.png">
 
 
-Area       
+### Sharing & Distribution      
 
-Users      
+#### Users      
 
 Needs & Opportunities        
 
