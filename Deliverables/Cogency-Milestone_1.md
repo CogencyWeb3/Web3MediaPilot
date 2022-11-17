@@ -5,7 +5,9 @@
 * **Application Document:** In the case of a public [Grants Program](https://github.com/w3f/Grants-Program) application, please provide a link to the merged contract (the `.md` file in the [applications](https://github.com/w3f/Grants-Program/tree/master/applications) directory). In the case of a private application, please provide the name of the project. 
 * **Milestone Number:** 1
 
-**Context** The project is a technical and strategic research hybrid that explores how to create value in a decentralised environment, developing a trusted source of content. The highest goal is to create a decentralised proposition that can help sustain a healthy, creative and diverse news and media industry.
+**Context** 
+
+The project is a technical and strategic research hybrid that explores how to create value in a decentralised environment, developing a trusted source of content. The highest goal is to create a decentralised proposition that can help sustain a healthy, creative and diverse news and media industry.
 
 This milestone lays the groundwork doing some preparation work to kick off the project during Milestone 2. 
 
