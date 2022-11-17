@@ -12,7 +12,7 @@ During Sprints 3 and 4 the focus has been put on relating the 5 Media Areas and 
 
 ## Output
 
-The output has been allocated in [Sprint 3](https://github.com/CogencyWeb3/Web3MediaPilot/blob/main/Deliverables/Cogency-Deliverable_2a3.md)
+The output has been located in [Sprint 3](https://github.com/CogencyWeb3/Web3MediaPilot/blob/main/Deliverables/Cogency-Deliverable_2a3.md)
 
 ## Next steps
 
