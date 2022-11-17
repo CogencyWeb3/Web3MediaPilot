@@ -38,8 +38,14 @@ To get a sense of the group’s interests, a survey has been carried out among t
 ### Sharing & Distribution      
 
 #### Users      
-
-Needs & Opportunities        
+- Content creators, included but not limited to: writing NFTs, web browser producers, social media posts 
+- Content consumers, including end users and influencers to boost the network effect.
+- News & Government Agencies
+- Corporations
+- Media organisations
+- Direct & Indirect audiences
+- Social platforms: Facebook, Twitter, Youtube & Google. Each of them with their own policies and strategies.
+     
 
 Mechanism     
 
