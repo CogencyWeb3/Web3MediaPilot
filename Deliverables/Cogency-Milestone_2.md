@@ -6,6 +6,7 @@
 * **Milestone Number:** 2
 
 **Context**
+
 The second milestone encompass the last part of the project. It will be run in week-by-week sprints, which include a weekly update and go/no go for the next sprint. The output of the sprints will form the deliverables 2a.1 to 2a.8. Sprints will culminate in a blueprint (2b.) outlining what the proposed solution is based on the team’s research. The blueprint will be stored on github for public access. 
 
 **Deliverables**
