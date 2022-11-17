@@ -134,31 +134,31 @@ To get a sense of the group’s interests, a survey has been carried out among t
 ### Verification     
 
 #### Users:      
-- Content creators, included but not limited to: [writing NFTs](https://dev.mirror.xyz/5gt60vKFJZ_tR1BjoJ7-Y0sNw7REebStHjzFU5x73J0), web browser producers, [social media posts](https://www.nytimes.com/2017/06/30/opinion/social-data-google-facebook-europe.html)
-- Content consumers, including end users and influencers to boost the [network effect](https://www.investopedia.com/terms/n/network-effect.asp).
+- Most of the previous users still apply. For monetisation, special emphasis on:
+  - Authorities, legal, GDPR.
+  - Content or users’ data verification? What should be the focus? Different tools are needed.
      
 #### Needs & Opportunities:      
-- Content creators, included but not limited to: writing NFTs, web browser producers, social media posts 
-- Content consumers, including end users and influencers to boost the network effect.
+- Misinformation / security of people sharing content: Ability to share without jeopardising your own integrity.
+- Helping validation on social events (elections, etc.) through electronic devices. 
+- As an example, (electronic tattoos will replace smartphones)[https://traveltomorrow.com/electronic-tattoos-will-replace-smartphones-says-bill-gates/], but this can also happen replacing personal identities.
 
 #### Mechanisms:      
-- Content creators, included but not limited to: writing NFTs, web browser producers, social media posts 
-- Content consumers, including end users and influencers to boost the network effect.
+- Verifying the source of an article/photo straight away - sent to the blockchain to the immutable ledger.
 
 #### Technologies:      
-- Content creators, included but not limited to: writing NFTs, web browser producers, social media posts 
-- Content consumers, including end users and influencers to boost the network effect.
+- Public permissionless blockchain
+- Scalable using Layer 1 parachains
+- Browser without interface 
+- Apps
+- Traditional APIs integrated with Web2 solutions for Web3 next-gen applications.
 
 #### Challenges:      
-- Content creators, included but not limited to: writing NFTs, web browser producers, social media posts 
-- Content consumers, including end users and influencers to boost the network effect.
-
+- Privacy. For instance, the fingerprint being used to unlock devices.
 
 #### Products & Results:      
-- Content creators, included but not limited to: writing NFTs, web browser producers, social media posts 
-- Content consumers, including end users and influencers to boost the network effect.
-
-
+- An existing company called Quaking Aspen with a product called [Sealr](https://www.sealr.app/) capture securely AI-verified images, videos and audio. Once the media item is taken, it gets sealed and it is sent directly to the blockchain.
+- The race to build a [social media platform](https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_19b5067c-853a-441e-a1ad-72c9139551d3) on the blockchain
 
 ### Archiving     
 
