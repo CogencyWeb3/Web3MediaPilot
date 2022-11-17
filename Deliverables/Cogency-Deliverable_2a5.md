@@ -45,3 +45,13 @@ The following insights can be extracted front the results above:
 We have also depicted the table above using a spider diagram. Each colour is an area, with 5 apexes for each criteria. The two winner areas, yellow and blue, stand out from the rest. 
 
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/114009050/202570730-f030cba4-f865-4375-bdf6-a2872cc5cead.png">
+
+## Next steps
+During the next sprint, the group will work on outlining a specific solution within the winner areas.
+
+| Number        | Workshop      | Date         | Duration     |
+| ------------- | ------------- |------------- |------------- |
+| 6.1 | Narrowing the solution (1/3) |15.11.2022 - 4PM CET|30min|
+| 6.2 | Narrowing the solution (2/3)  |15.11.2022 - 4.30PM CET|30min|
+| 6.3 | Narrowing the solution (3/3) |16.11.2022 - 3PM CET|30min|
+| 6.4 | Sprint round up  |18.11.2022 - 4PM CET|30min|
