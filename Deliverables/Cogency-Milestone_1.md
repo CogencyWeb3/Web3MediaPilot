@@ -5,8 +5,10 @@
 * **Application Document:** In the case of a public [Grants Program](https://github.com/w3f/Grants-Program) application, please provide a link to the merged contract (the `.md` file in the [applications](https://github.com/w3f/Grants-Program/tree/master/applications) directory). In the case of a private application, please provide the name of the project. 
 * **Milestone Number:** 1
 
-**Context** (optional)
-> Please provide a short paragraph or two connecting the deliverables in this milestone and describing their purpose.
+**Context**
+The project is a technical and strategic research hybrid that explores how to create value in a decentralised environment, developing a trusted source of content. The highest goal is to create a decentralised proposition that can help sustain a healthy, creative and diverse news and media industry.
+
+This milestone lays the groundwork doing some preparation work to kick off the project during Milestone 2. 
 
 **Deliverables**
 > Please provide a list of all deliverables of the milestone extracted from the initial application and a link to the deliverable itself. Ideally all links inside the below table should include a commit hash, which will be used for testing. If you don't provide a commit hash, we will work off the default branch of your repository. Thus, if you plan on continuing work after delivery, we suggest you create a separate branch for either the delivery or your continuing work. 
