@@ -199,27 +199,38 @@ To get a sense of the group’s interests, a survey has been carried out among t
 ### Production     
 
 #### Users:      
-- Content creators, included but not limited to: [writing NFTs](https://dev.mirror.xyz/5gt60vKFJZ_tR1BjoJ7-Y0sNw7REebStHjzFU5x73J0), web browser producers, [social media posts](https://www.nytimes.com/2017/06/30/opinion/social-data-google-facebook-europe.html)
-- Content consumers, including end users and influencers to boost the [network effect](https://www.investopedia.com/terms/n/network-effect.asp).
+- Most of the previous users still apply. For monetisation, special emphasis on:
+  - Internal reviewers: Multiple internal layers involved: creatives, senior editors, video team, etc.
      
 #### Needs & Opportunities:      
-- Content creators, included but not limited to: writing NFTs, web browser producers, social media posts 
-- Content consumers, including end users and influencers to boost the network effect.
+- Measuring improvement? New metrics? Faster? Universal/agreed tagging.
+- Viewability 
+- Replacing the panel based measurement called [comscore](https://www.comscore.com/), which is not very transparent, and possibly not very accurate. 
+- Having a transparent and trustless alternative to comscore will be key. 
+- Verifiable previous drafts for legal (immutability). It should be a permissioned blockchain, not public and for internal use.
+- Interoperability between different parachains out of the Polkadot umbrella. (e.g. Cosmos).
 
 #### Mechanisms:      
-- Content creators, included but not limited to: writing NFTs, web browser producers, social media posts 
-- Content consumers, including end users and influencers to boost the network effect.
+- Making the audience aware of the internal process that every piece of news is going through before it gets published. This improves the overall trust of the brand.
 
 #### Technologies:      
-- Content creators, included but not limited to: writing NFTs, web browser producers, social media posts 
-- Content consumers, including end users and influencers to boost the network effect.
+- Most of the previous technologies still apply. 
 
 #### Challenges:      
-- Content creators, included but not limited to: writing NFTs, web browser producers, social media posts 
-- Content consumers, including end users and influencers to boost the network effect.
-
+- Development vs. Editorial tension. Both need to move forward following the same direction and aligning strategies.
+- Narrowing down the playing field and creating automated processes towards common goals.
+- Media consumption may not be through current browsers, but they need to be compatible with them.
 
 #### Products & Results:      
-- Content creators, included but not limited to: writing NFTs, web browser producers, social media posts 
-- Content consumers, including end users and influencers to boost the network effect.
+-  New production frameworks handled by smart contracts to perform:
+  - Admin work: payroll, payments, etc.
+  - Legal work: following an automated process pipeline depending on the area the asset is in: photography, article, etc. to make things crystal clear to everyone since the very beginning. This will allow us to scale the business easier with the same amount of fixed assets.
 
+## Next steps
+
+Next week the focus will be completing the relation between the 5 Media Areas and the 6 Angles to get a final sense on what are the preferences from the group.
+
+| Number        | Workshop      | Date         | Duration     |
+| ------------- | ------------- |------------- |------------- |
+| 4.1 | Ideas Refinement  (1/2) |01.11.2022 - 4PM CET|60min|
+| 4.2 | Ideas Refinement  (2/2) |02.11.2022 - 4PM CET|60min|
