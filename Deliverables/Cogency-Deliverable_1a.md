@@ -19,7 +19,13 @@ The measurable success of this milestone would be the successful allocation of t
 We announced the bursary opportunity at the end of the month of August through a Press Release sent out by WAN-IFRA CEO Vincent Peyrègne to the whole WAN-IFRA database. 
 It was an easy application process through the following online [application form](https://form.typeform.com/to/Y8M5BL3r)
 
+<img width="328" alt="image" src="https://user-images.githubusercontent.com/114009050/202559873-ea6f59f2-9d79-4984-8076-b80a0dc39558.png">
+
 The deadline to apply was 11 September midnight and we set up an application through the following 
+
+<img width="325" alt="image" src="https://user-images.githubusercontent.com/114009050/202559899-55960842-6655-4d44-b21f-fd09450a460c.png">
+
+<img width="327" alt="image" src="https://user-images.githubusercontent.com/114009050/202559921-fc82bcd4-638e-48a6-8f98-7f7bd895a5e4.png">
 
 - Applicants were asked to answer the following questions:
 - Please provide the name of your organisation or company.      
