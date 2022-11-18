@@ -130,10 +130,10 @@ The project starts the week of October 10, 2022, with an estimated ending on the
 | 1b. | Initial Research  |An initial summary of the project plan (see specification of Milestones 2a. below) will be made available. |
 | 2a.1. | Sprint 1   |Sprint & Technology Introduction|
 | 2a.2. | Sprint 2    |Defining the Problem|
-| 2a.3. | Sprint 3   |Defining the Opportunity|
-| 2a.4. | Sprint 4   |Solution Selection |
-| 2a.5. | Sprint 5   |Solution Assessment |
-| 2a.6. | Sprint 6   |Solution Detail|
+| 2a.3. | Sprint 3   |Defining the Opportunity (1/2)|
+| 2a.4. | Sprint 4   |Defining the Opportunity (2/2)|
+| 2a.5. | Sprint 5   |Solution Selection |
+| 2a.6. | Sprint 6   |Solution Assessment|
 | 2a.7. | Sprint 7   |Expert feedback and Solution Refinement|
 | 2a.8. | Sprint 8   |Present Solution with a draft blueprint|
 | 2b. | Blueprint  |Final Blueprint including the Business Plan|
