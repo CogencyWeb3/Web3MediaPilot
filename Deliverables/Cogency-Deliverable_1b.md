@@ -158,11 +158,11 @@ This phase also serves as key concept sharing and agreeing direction of  tech pr
   - Activities: Guided blue sky workshops on Trust, Governance and Commercial opportunities. Follow up Interviews. Case studies.
 
 - Week 3: Defining the Opportunity
-  - Goal: Follow on from Week 2, review the variety of options to solve the problem. Continue analysis of opportunities. Define the criteria for the radar chart for solution selection.
+  - Goal: Follow on from Week 2, review the variety of options to solve the problem. Continue analysis of opportunities. 
   - Activities: Brainstorming workshop based on the output of Week 2.
 
 - Week 4: Solution selection
-  - Goal: Select the solution based on the radar chart, and get the assessment on Web3 Foundation.
+  - Goal: Follow up from the previous week, where the analysis will be completed.
   - Activities: Interviews, workshop, go/ no go for Phase 2 (see below). 
   - Risk: An idea isn’t suitable enough to move the project forward.
   - Mitigation plan: Re-run Week 3 and Week 4 together to agree on a proposed solution. 
@@ -175,15 +175,15 @@ This phase will last 4 weeks and is meant to validate the proposed solution, dri
 This phase will also develop a detailed technical product blueprint and draft business proposal for future rollout of a product. From this point, subgroups will be created based on the project needs. 
 
 - Week 5: Solution Assessment 
-  - Goal: Assess the suitability of the proposed solution: does it really address the problem in a way that makes sense? Is it scalable? Other considerations? 
+  - Goal: Define the criteria for the radar chart for solution selection. Select the solution based on the radar chart, and get an assessment on current progress from Web3 Foundation.
   - Activities: Interviews, workshops.
 
 - Week 6: Solution Detail
-  - Goal: Further insights gathering from experts to outline the proposed solution. Risk assessment and solution feasibility in the market.
+  - Goal: Assess the suitability of the proposed solution: does it really address the problem in a way that makes sense? Is it scalable? Other considerations? 
   - Activities: Interviews, workshops.
 
 - Week 7: Expert feedback and Solution Refinement
-  - Goal: Continuation of the previous session to refine the solution.
+  - Goal: Further insights gathering from experts to outline the proposed solution. Risk assessment and solution feasibility in the market. Continuation of the previous session to refine the solution.
   - Activities: Interviews, workshops.
 
 - Week 8: Present Solution with a draft blueprint
