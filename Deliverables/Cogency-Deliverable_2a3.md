@@ -32,7 +32,7 @@ Walid Al-Saqaf, Associate Professor in Journalism at Södertörn University in S
 To get a sense of the group’s interests, a survey has been carried out among the six main Media Areas, which has determined the order to follow:
 
 
-<img width="600" alt="image" src="https://user-images.githubusercontent.com/114009050/202560713-715d5c97-aab7-4fad-bfed-7fa2b3e6e36a.png">
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/114009050/202560713-715d5c97-aab7-4fad-bfed-7fa2b3e6e36a.png">
 
 
 ### Sharing & Distribution      
