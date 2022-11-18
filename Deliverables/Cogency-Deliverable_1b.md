@@ -157,11 +157,11 @@ This phase also serves as key concept sharing and agreeing direction of  tech pr
   - Goal: Opportunity analysis and definition of the problem we are trying to solve.
   - Activities: Guided blue sky workshops on Trust, Governance and Commercial opportunities. Follow up Interviews. Case studies.
 
-- Week 3: Defining the Opportunity
+- Week 3: Defining the Opportunity (1/2)
   - Goal: Follow on from Week 2, review the variety of options to solve the problem. Continue analysis of opportunities. 
   - Activities: Brainstorming workshop based on the output of Week 2.
 
-- Week 4: Solution selection
+- Week 4: Defining the Opportunity (2/2)
   - Goal: Follow up from the previous week, where the analysis will be completed.
   - Activities: Interviews, workshop, go/ no go for Phase 2 (see below). 
   - Risk: An idea isn’t suitable enough to move the project forward.
@@ -174,11 +174,11 @@ This phase will last 4 weeks and is meant to validate the proposed solution, dri
 
 This phase will also develop a detailed technical product blueprint and draft business proposal for future rollout of a product. From this point, subgroups will be created based on the project needs. 
 
-- Week 5: Solution Assessment 
+- Week 5: Solution Selection 
   - Goal: Define the criteria for the radar chart for solution selection. Select the solution based on the radar chart, and get an assessment on current progress from Web3 Foundation.
   - Activities: Interviews, workshops.
 
-- Week 6: Solution Detail
+- Week 6: Solution Assessment
   - Goal: Assess the suitability of the proposed solution: does it really address the problem in a way that makes sense? Is it scalable? Other considerations? 
   - Activities: Interviews, workshops.
 
