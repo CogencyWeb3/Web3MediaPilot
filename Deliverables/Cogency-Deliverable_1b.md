@@ -120,7 +120,7 @@ The project starts the week of October 10, 2022, with an estimated ending on the
 2. Solution Validation: weeks 5 to 8.
 3. Blueprint: weeks 9 and 10.
 
-<img width="610" alt="image" src="https://user-images.githubusercontent.com/114009050/197067076-584d34f9-7ef2-4ead-bc26-2ee56e5a3b08.png">
+<img width="850" alt="image" src="https://user-images.githubusercontent.com/114009050/197067076-584d34f9-7ef2-4ead-bc26-2ee56e5a3b08.png">
 
 ### Milestones
 
