@@ -140,4 +140,4 @@ Knowing the very basics about Web3, Blockchain and Polkadot, from next week we'l
  [^9]: https://tedium.co/2022/04/06/centralization-decentralization-social-networking-faq/
  [^10]: https://tedium.co/2022/04/06/centralization-decentralization-social-networking-faq/](https://polkadot.network/dot-token/
  [^11]: https://kusama.network/
- [^12]: https://kusama.network/](https://www.blockchain-council.org/blockchain/polkadot-vs-cosmos/)
+ [^12]: https://www.blockchain-council.org/blockchain/polkadot-vs-cosmos/
