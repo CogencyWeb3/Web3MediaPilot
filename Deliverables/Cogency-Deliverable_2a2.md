@@ -40,7 +40,7 @@ Particular emphasis has been placed on Civil:
     - A Civil Council (of Elders) had the authority to reverse the community’s vote.
     - Newsrooms relied on Civil’s websites and servers. Due to this reliance, Newsrooms may suffer if the Civil server is exposed to an attack or malfunction.
   - Buying the CVL token was extremely complicated[^3] 
-  - The bigger your stack of CVL tokens is, the more sway you could exert over the community, which made the mechanism
+  - The bigger your stack of CVL tokens is, the more sway you could exert over the community, which made the mechanism abusive.
   - Civil operated under the Ethereum blockchain, which was quite expensive due to gas fees. 
   - The mechanism wasn’t mature enough. Civil was developing and testing its business model while dealing with how to bring trust into newsrooms. They attempted to do those two things at the same time.
   - Cryptoeconomics were too bureaucratic: 
