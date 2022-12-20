@@ -32,7 +32,7 @@ The trigger can manifest as:
 2. A consumer purchasing a subscription.
 3. A loyal consumer based on certain criteria.
 
-Once one of the previous triggers are met, the digital asset will be created. The digital asset will be an entity holding all the consumer’s metadata: location, reading preferences, subscriptions, level of engagement with a publication, etc. It will become the digital identity of an engaged subscriber bundled in an NFT.
+Once one of the previous triggers is met, the digital asset will be created. The digital asset will be an entity holding all the consumer’s metadata: location, reading preferences, subscriptions, level of engagement with a publication, etc. It will become the digital identity of an engaged subscriber bundled in an NFT.
 
 ## Next steps
 After discussing the proposed solution with the team, there’s been some open points and questions that will be the focus to keep refining the solution over the next two weeks:
