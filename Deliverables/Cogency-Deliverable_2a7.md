@@ -15,7 +15,7 @@ During this sprint the focus has been on how to create value for both publishers
 
 In the first two sessions (7.1 and 7.2) the team has discussed about both publisher and consumer gains:
 
-Consumer gains and comments:
+**Consumer gains and comments**
 - It will improve service levels. It’s the system (blockchain) doing it automatically, not the publisher collecting the data.
 - More ownership and control of the consumer’s digital identity/data.
 - Badging for Tier-1 benefits: chat with editors, meetings, recommendations, etc.
@@ -40,7 +40,7 @@ Consumer gains and comments:
   - Example: Spotify Wrapped model (most listened songs and artists). People are excited about that every year when it's basically a reflection of data collection.
   - Community stats to make decisions about a specific topic. Similar to a news feed.
 
-Publisher gains and comments:
+**Publisher gains and comments**
 - Compliance (GDPR).
 - Engagement validation.
 - Trust and loyalty.
@@ -62,3 +62,7 @@ Publisher gains and comments:
 - Potential risk: content syndication working process is still open. Mitigation plan: the first site will hold the IP and can get a better monetisation than the ones that syndicate that piece of news (revenue share/licence).
 - Getting a token fee by giving the token to the consumer.
 - IPFS will decrease the publisher infrastructure cost and will increase content reach, but IPFS is still very expensive.
+
+Based on the first two meetings, the team has come up with an evolved approach of the solution (7.3), outlined during the previous sprint.
+
+**Creating the Digital Identity**
