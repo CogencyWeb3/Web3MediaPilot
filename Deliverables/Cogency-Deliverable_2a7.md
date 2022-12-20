@@ -67,7 +67,7 @@ Based on the first two meetings, the team has come up with an evolved approach o
 
 ### Creating the Digital Identity
 
-<img width="572" alt="image" src="https://user-images.githubusercontent.com/114009050/208780106-a880f501-1a6b-40d9-9e29-2590bac1c312.png">
+<img width="900" alt="image" src="https://user-images.githubusercontent.com/114009050/208780106-a880f501-1a6b-40d9-9e29-2590bac1c312.png">
 
 The process starts in the CMS, where the publisher creates the piece of content that will be consumed. From all users interacting with the piece of content, we’ll focus on three different groups: 
 
@@ -91,7 +91,7 @@ Some real scenarios:
 1. The more the user is engaged, that is, the more they read or interact with the publisher content, their badge will increase in value (i.e. bronze to silver), and more tokens will be distributed among all parties.
 2. The user can subscribe to a different publisher who, depending on the consumer’s badge, can give away giftable content for their family and friends, a discount, or more tokens for both parties. 
 
-<img width="564" alt="image" src="https://user-images.githubusercontent.com/114009050/208780173-eade8af7-3cc1-4a50-bcdb-b1ee9e236abc.png">
+<img width="900" alt="image" src="https://user-images.githubusercontent.com/114009050/208780173-eade8af7-3cc1-4a50-bcdb-b1ee9e236abc.png">
 
 This process will also be an incentive for the publisher beyond acquiring a new consumer, because some others could be acquired through the newly acquired consumer due to network effects, and value will be also created in the form of tokens.
 
