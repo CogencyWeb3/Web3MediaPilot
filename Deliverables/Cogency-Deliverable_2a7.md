@@ -39,3 +39,26 @@ Consumer gains and comments:
 - Transparency on data collection:
   - Example: Spotify Wrapped model (most listened songs and artists). People are excited about that every year when it's basically a reflection of data collection.
   - Community stats to make decisions about a specific topic. Similar to a news feed.
+
+Publisher gains and comments:
+- Compliance (GDPR).
+- Engagement validation.
+- Trust and loyalty.
+- Cheaper storage.
+- Increasing the user pool.
+- What do we do with Tier-1 consumers (the ones more loyal to a brand)?
+- Cross-publishing access: loyal/subscribed consumers (because they have a badge/token) from Site X can unlock the paywall for Site Y for a specific amount of time, with the aim that the consumer becomes a Site Y subscriber. 
+- More synergies between publishers. 
+- Aggregators:
+  - On the one hand, we won’t need aggregators (which are currently in web2), so middlemen wouldn’t be needed. Aggregators are currently very expensive and skipping them would be a game changer. We could use the money saved from aggregators for users (free trials, for instance, to convert them).
+  - But on the other hand, aggregators can also work for specific use cases: to enhance local publications and increase reach. 
+  - Aggregators such as [Distributed Media Lab](https://www.distributedmedialab.com/) and [Smart News](https://www.smartnews.com/en/) are top “publishers” just for the sake of being aggregators.
+  - The problem of aggregation tools is that they have been, thus far, [extractive](https://twitter.com/Chronotope/status/751489068572246017).
+  - Can we really disrupt the aggregators? It would be very interesting for the publishers, but [aggregators are very well established](https://techcrunch.com/2021/09/15/news-aggregator-smartnews-raises-230-million-valuing-its-business-at-2-billion/).
+- Relation between Site X and Site Y will become key to enrich the user experience and content. Aggregators wouldn’t be playing the game.
+- Site Y will be able to decrease their budget for acquiring new users because the subscribed user from Site X will spread the word (network effects). Free opportunity to give a first impression. And more users will come.
+- Increase content distribution, and be more direct. 
+- Trusted news feed so the user doesn’t need to go, for instance, to Twitter. This will retain users and keep them more engaged.
+- Potential risk: content syndication working process is still open. Mitigation plan: the first site will hold the IP and can get a better monetisation than the ones that syndicate that piece of news (revenue share/licence).
+- Getting a token fee by giving the token to the consumer.
+- IPFS will decrease the publisher infrastructure cost and will increase content reach, but IPFS is still very expensive.
