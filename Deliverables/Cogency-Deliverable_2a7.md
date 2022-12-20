@@ -88,7 +88,7 @@ Once the digital identity is created, as the consumer consumes content, all the 
 
 Some real scenarios:
 
-1. The more the user is engaged, that is, the more they read or interact with the publisher content, their badge will increase in value (i.e. bronze to silver), and more tokens will be distributed among all parties.
+1. The more the user is engaged, that is, the more they read or interact with the publisher content, their badge will increase in value (e.g. bronze to silver), and more tokens will be distributed among all parties.
 2. The user can subscribe to a different publisher who, depending on the consumer’s badge, can give away giftable content for their family and friends, a discount, or more tokens for both parties. 
 
 <img width="900" alt="image" src="https://user-images.githubusercontent.com/114009050/208780173-eade8af7-3cc1-4a50-bcdb-b1ee9e236abc.png">
