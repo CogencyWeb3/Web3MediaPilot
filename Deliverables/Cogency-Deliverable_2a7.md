@@ -66,3 +66,63 @@ In the first two sessions (7.1 and 7.2) the team has discussed about both publis
 Based on the first two meetings, the team has come up with an evolved approach of the solution (7.3), outlined during the previous sprint.
 
 ### Creating the Digital Identity
+
+<img width="572" alt="image" src="https://user-images.githubusercontent.com/114009050/208780106-a880f501-1a6b-40d9-9e29-2590bac1c312.png">
+
+The process starts in the CMS, where the publisher creates the piece of content that will be consumed. From all users interacting with the piece of content, we’ll focus on three different groups: 
+
+1. Premium reader: a user that has decided to increase their subscription expenditure for a publication.
+2. Heavy reader, given a defined consumption threshold.
+3. Young reader, given a defined age threshold.
+
+Once a user belongs to one of the previous three groups, a trigger will be released, which will unleash the creation of the consumer’s digital asset: the creation of a unique profile of their data that is theirs alone, and people can only see if they give them access. The digital identity is not tied to a single publisher, it’s tied to the consumer.
+
+The digital asset will be based on consumer’s metadata, that will be initially gathered in a form filled out by the consumer, who will be asked to complete additional information and informed that they will own their own data: not the publisher, not the platform, but the consumer themselves. The form will be also used for the user to give consent for their data to be stored to avoid any future GDPR issue. 
+
+In return, the consumer gets a unique NFT profile created on-chain plus a token that the publisher will also obtain.
+
+
+### The Digital Identity creates win-win user acquisition and retention
+
+Once the digital identity is created, as the consumer consumes content, all the metadata is gathered by their digital asset, that is their unique digital identity bundled in an NFT. 
+
+Some real scenarios:
+
+1. The more the user is engaged, that is, the more they read or interact with the publisher content, their badge will increase in value (i.e. bronze to silver), and more tokens will be distributed among all parties.
+2. The user can subscribe to a different publisher who, depending on the consumer’s badge, can give away giftable content for their family and friends, a discount, or more tokens for both parties. 
+
+<img width="564" alt="image" src="https://user-images.githubusercontent.com/114009050/208780173-eade8af7-3cc1-4a50-bcdb-b1ee9e236abc.png">
+
+This process will also be an incentive for the publisher beyond acquiring a new consumer, because some others could be acquired through the newly acquired consumer due to network effects, and value will be also created in the form of tokens.
+
+### Other ideas that have been discussed:
+
+- Potential to add standardised metadata to articles, possibly starting with the gifted articles that could be bundled for our engaged users.
+- The more engaged, your "badge" will go up, and your opinion should be more respected/listened among the community.
+- Digital Asset: NFT - bluetick with metadata that will explain how loyal is that user. That will also give status to the user. Bring personalization to the badge: sporty user, or more into US politics, etc. Another badge could be “Donation”.
+- What does read mean? % of the article / scrolling / time spent on it?
+- Governance from community / voting.
+- Language blockers.
+- [Metadata standard](https://schema.org/)
+- [Metadata service to build a persona](https://developer.ap.org/ap-metadata-services/) 
+- Providing [open industry standards](https://openrtb.github.io/OpenRTB/) for communication between buyers of advertising and sellers of publisher inventory.
+- Ad targeting based on what the user is more interested in - [Topics API project](https://github.com/patcg-individual-drafts/topics). 
+- Metadata standards and examples:
+  - [IPTC](https://iptc.org/) is the global standard body of the news media that provides the technical foundation for the news ecosystem.
+  - [Reuters topic codes](https://liaison.reuters.com/tools/topic-codes). 
+- There’s some work already done for decentralised IDs (DID):
+  - [Basic spec](https://w3c.github.io/did-core/) followed by Polkadot.
+  - [KILT approach](https://github.com/KILTprotocol/kilt-did-driver/blob/master/docs/did-spec/spec.md)
+- Building community is key.
+- Web3 is about composability - using what has already been built.
+
+## Next steps
+
+During the next sprint we will dive deeper into some key aspects of the solution: the account creation process, the publishing access, the concepts of DID and verifiable credentials, and the CMS integration in Web2.
+
+| Number        | Workshop      | Date         | Duration     |
+| ------------- | ------------- |------------- |------------- |
+| 8.1 | Solution Tech Assessment (1/2) |28.11.2022 - 11.30PM CET|30min|
+| 8.2 | Solution Tech Assessment (2/2) |01.12.2022 - 2PM CET|30min|
+| 8.3 | Tech Architecture: Q&A  |02.12.2022 - 11AM CET|60min|
+| 8.4 | First Architecture approach - review  |02.12.2022 - 4PM CET|60min|
