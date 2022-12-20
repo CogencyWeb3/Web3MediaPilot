@@ -40,7 +40,7 @@ In the first two sessions (7.1 and 7.2) the team has discussed about both publis
   - Example: Spotify Wrapped model (most listened songs and artists). People are excited about that every year when it's basically a reflection of data collection.
   - Community stats to make decisions about a specific topic. Similar to a news feed.
 
-### Publisher gains and comments
+### Publisher gains and comments:
 - Compliance (GDPR).
 - Engagement validation.
 - Trust and loyalty.
