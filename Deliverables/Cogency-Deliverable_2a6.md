@@ -73,7 +73,7 @@ After discussing the proposed solution with the team, there’s been some open p
 
   - What are the extra problems we are solving? Ability to access our media from behind paywalls, offline access (now delegated to instapaper or pocket), and ability to have a standard format, access for democracy purposes for users.
 
- - IPFS as way to storage and distribution: https://en.wikipedia.org/wiki/InterPlanetary_File_System
+ - [IPFS](https://ipfs.tech/) as way to storage and distribution.
 
 
 | Number        | Workshop      | Date         | Duration     |
