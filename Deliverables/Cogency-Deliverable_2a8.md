@@ -14,7 +14,7 @@ During this sprint we will be working on presenting a more detailed architecture
 
 ### Account creation and publishing access
 
-<img width="902" alt="image" src="https://user-images.githubusercontent.com/114009050/208790687-5b79104a-49e6-44db-ba7a-0cc7533c002a.png">
+<img width="1000" alt="image" src="https://user-images.githubusercontent.com/114009050/208790687-5b79104a-49e6-44db-ba7a-0cc7533c002a.png">
 
 As discussed previously, once any of the three triggers is met, a form will be presented to the user with a threefold goal:
 Gather further basic user’s metadata: personal, contextual and behavioural.
@@ -25,19 +25,19 @@ The Decentralised Identifier (DID) will be attached to the user Verifiable Crede
 
 ### Consumer’s badge update
 
-<img width="899" alt="image" src="https://user-images.githubusercontent.com/114009050/208790764-3087b5a1-a2ea-4a6c-90f2-d404edcc554e.png">
+<img width="1000" alt="image" src="https://user-images.githubusercontent.com/114009050/208790764-3087b5a1-a2ea-4a6c-90f2-d404edcc554e.png">
 
 Once a threshold of content consumption is reached, the badge of the user will level up (e.g. from silver to bronze) and, again, the VC will be updated accordingly.
 
 ### Cogency space detail
 
-<img width="901" alt="image" src="https://user-images.githubusercontent.com/114009050/208790818-d0ce794f-6f66-4642-b4cb-cceea2c8297c.png">
+<img width="1000" alt="image" src="https://user-images.githubusercontent.com/114009050/208790818-d0ce794f-6f66-4642-b4cb-cceea2c8297c.png">
 
 The user’s Cogency profile, effectively the VC, will hold all the user’s information, including the DID and all their metadata. Any user with a digital identity will also be able to engage with the community. 
 
 ### Web2 CMS Integration
 
-<img width="661" alt="image" src="https://user-images.githubusercontent.com/114009050/208790871-3abfdb18-ad6c-4ac4-88ae-5631065bb6ea.png">
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/114009050/208790871-3abfdb18-ad6c-4ac4-88ae-5631065bb6ea.png">
 
 The project will use the DID standard[^1][^2][^3], also used by Polkadot, tailoring to our needs.
 An API/SDK Web2 layer will communicate with the blockchain and, once one of the triggers is met, the user will become a user with a digital identity stored on-chain.
