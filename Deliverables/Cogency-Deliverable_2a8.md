@@ -49,7 +49,7 @@ The project will use the DID standard[^1][^2][^3], also used by Polkadot, tailor
 
 ## Next steps
 
-The team has come up with a feasible solution that addresses the need of having a unique digital identity shared across all publishers. With the very basics in place, the rest of the project will aim to complete a blueprint with a business plan, that will be the final project deliverable.
+The team has come up with a feasible solution that addresses the need for a unique digital identity shared across all publishers. Once the foundations have been laid, the rest of the project will aim to complete a blueprint with a business plan, that will be the final project deliverable.
 
  [^1]: https://w3c.github.io/did-core
  [^2]: https://w3c-ccg.github.io/did-primer
