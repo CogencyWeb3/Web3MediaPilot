@@ -39,7 +39,7 @@ The user’s Cogency profile, effectively the VC, will hold all the user’s inf
 
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/114009050/208790871-3abfdb18-ad6c-4ac4-88ae-5631065bb6ea.png">
 
-The project will use the DID standard[^1][^2][^3], also used by Polkadot, tailoring to our needs.
+The project will use the DID standard[^1][^2][^3], also used by Polkadot, tailored to our needs.
 An API/SDK Web2 layer will communicate with the blockchain and, once one of the triggers is met, the user will become a user with a digital identity stored on-chain.
 
 ## Next steps
