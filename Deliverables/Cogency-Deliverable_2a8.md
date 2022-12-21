@@ -37,7 +37,7 @@ The user’s Cogency profile, effectively the VC, will hold all the user’s inf
 
 ### Web2 CMS Integration
 
-
+<img width="1000" alt="image" src="https://user-images.githubusercontent.com/114009050/208791600-7821b8cc-a8a1-4d27-83da-b61680f7011d.png">
 
 An API/SDK Web2 layer will communicate with the blockchain and, once one of the triggers is met, the user will become a user with a digital identity stored on-chain.
 
