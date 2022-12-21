@@ -23,11 +23,11 @@ As discussed previously, once any of the three triggers is met, a form will be p
 
 The Decentralised Identifier (DID) will be attached to the user Verifiable Credentials (VC), and together with their wallet, will be the only three items needed by the user to access any piece of content. Once the account is created, and the user wants to consume a piece of content from a specific publication, the publication (issuer) will double check with the blockchain (verifier) if the user has the right to consume that piece of content (and if so, e.g. the green tick will become a blue tick), and the VC will be updated accordingly.
 
-### Consumer’s badge update
+### Consumer’s badge update and access to another publication
 
 <img width="1000" alt="image" src="https://user-images.githubusercontent.com/114009050/208790764-3087b5a1-a2ea-4a6c-90f2-d404edcc554e.png">
 
-Once a threshold of content consumption is reached, the badge of the user will level up (e.g. from silver to bronze) and, again, the VC will be updated accordingly.
+Once a threshold of content consumption is reached, the badge of the user will level up (e.g. from silver to bronze) and, again, the VC will be updated accordingly. Separately, the user can access any other publication at any time (e.g. site Y on the example above), and the same verification process will apply.
 
 ### Cogency space detail
 
