@@ -17,9 +17,9 @@ During this sprint we will be working on presenting a more detailed architecture
 <img width="1000" alt="image" src="https://user-images.githubusercontent.com/114009050/208790687-5b79104a-49e6-44db-ba7a-0cc7533c002a.png">
 
 As discussed previously, once any of the three triggers is met, a form will be presented to the user with a threefold goal:
-Gather further basic user’s metadata: personal, contextual and behavioural.
-Creation of a new wallet or attachment of an existing one by the user. 
-Get user consent for their data to be stored to avoid any future GDPR issue. Inform the user that they will own their own data, not the publisher, not any platform, but the user themselves. 
+1. Gather further basic user’s metadata: personal, contextual and behavioural.
+2. Creation of a new wallet or attachment of an existing one by the user. 
+3. Get user consent for their data to be stored to avoid any future GDPR issue. Inform the user that they will own their own data, not the publisher, not any platform, but the user themselves. 
 
 The Decentralised Identifier (DID) will be attached to the user Verifiable Credentials (VC), and together with their wallet, will be the only three items needed by the user to access any piece of content. Once the account is created, and the user wants to consume a piece of content from a specific publication, the publication (issuer) will double check with the blockchain (verifier) if the user has the right to consume that piece of content (if so, e.g. the green tick will become a blue tick), and the VC will be updated accordingly.
 
