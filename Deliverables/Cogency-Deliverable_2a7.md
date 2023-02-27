@@ -15,9 +15,8 @@ During this sprint the focus has been on how to create value for both publishers
 
 In the first two sessions (7.1 and 7.2) the team has discussed about both publisher and consumer gains:
 
-### Consumer gains and comments:
-- It will improve service levels. It’s the system (blockchain) doing it automatically, not the publisher collecting the data.
-- More ownership and control of the consumer’s digital identity/data.
+### Consumer potential gains and comments:
+- It will improve user agency over personal data by putting permissions in the hands of users and therefore improve the data value exchange between consumer and publisher. This is because as the system (blockchain) stores user engagement data _on behalf of the user_ - as opposed to it being collected and stored by each publisher.
 - Badging for Tier-1 benefits: chat with editors, meetings, recommendations, etc.
 - Increasing loyalty by the read to learn incentive using smart contracts automatically.
 - The incentive should have a genuine value for users. Users may not care about fancy NFTs, or tokens with little value.
@@ -31,7 +30,7 @@ In the first two sessions (7.1 and 7.2) the team has discussed about both publis
 - The digital asset will be owned or will be the person itself - potential risk of malicious enrichment when sharing deliberately. 
 - Ability to have more control over the ads. If the digital asset is bundled in a web package, you can choose a publisher that you trust regardless if the aggregator is trustworthy. 
 - User engagement to foster interaction to help with credibility: if a user is a heavy politics reader, their opinions should have more credibility and influence. We should be careful with consent, but [Crumbs](https://crumbs.org/en/?cbs_source=eyeo_blog&cbs_medium=cta&cbs_campaign=crumbs_topics) can help.
-- Consumers are not really worried about their data itself. They are most interested in what they can obtain in exchange for their data (monetisation). 
+- Consumers are not really worried about sharing their data. They are most interested in what they can obtain in exchange for their data (monetisation). 
 - Younger users' attention: Gen Z and above. Do they care about privacy?
   - [Data privacy summary](https://morningconsult.com/2022/11/09/data-privacy-is-different-for-gen-z/)
   - Gen Z is more interested in data/privacy
@@ -40,7 +39,7 @@ In the first two sessions (7.1 and 7.2) the team has discussed about both publis
   - Example: Spotify Wrapped model (most listened songs and artists). People are excited about that every year when it's basically a reflection of data collection.
   - Community stats to make decisions about a specific topic. Similar to a news feed.
 
-### Publisher gains and comments:
+### Publisher potential gains and comments:
 - Compliance (GDPR).
 - Engagement validation.
 - Trust and loyalty.
@@ -69,13 +68,13 @@ Based on the first two meetings, the team has come up with an evolved approach o
 
 <img width="900" alt="image" src="https://user-images.githubusercontent.com/114009050/208780106-a880f501-1a6b-40d9-9e29-2590bac1c312.png">
 
-The process starts in the CMS, where the publisher creates the piece of content that will be consumed. From all users interacting with the piece of content, we’ll focus on three different groups: 
+The process starts in the CMS, where the publisher creates the piece of content that will be consumed. From all users interacting with the piece of content, we will focus on three different groups: 
 
 1. Premium reader: a user that has decided to increase their subscription expenditure for a publication.
 2. Heavy reader, given a defined consumption threshold.
 3. Young reader, given a defined age threshold.
 
-Once a user belongs to one of the previous three groups, a trigger will be released, which will unleash the creation of the consumer’s digital asset: the creation of a unique profile of their data that is theirs alone, and people can only see if they give them access. The digital identity is not tied to a single publisher, it’s tied to the consumer.
+Once a user belongs to one of the previous three groups, a trigger will be released, which will unleash the creation of the consumer’s digital asset: the creation of a unique profile of their data that is theirs alone, and people can only see if they give them access. The digital identity is not tied to a single publisher, it is tied to the consumer.
 
 The digital asset will be based on consumer’s metadata, that will be initially gathered in a form filled out by the consumer, who will be asked to complete additional information and informed that they will own their own data: not the publisher, not the platform, but the consumer themselves. The form will be also used for the user to give consent for their data to be stored to avoid any future GDPR issue. 
 
