@@ -27,6 +27,8 @@ taking into account six different Angles:
  
 Walid Al-Saqaf, Associate Professor in Journalism at Södertörn University in Stockholm, and David Tomchack have run 4 brainstorming sessions across Sprints 3 and 4 to relate 5 Media Areas with the 6 Angles depicted above.
 
+Themes that cut across the workshops were the assessment of the governance for a future entity, such as a DAO; an assessment of case studies of how parachains may be used to establish trust through transparency; discussion on what the strategy could be for use of CDN (content delivery network) for scalability and edge technologies - for example, a decentralised CDN concept; research into integration of CMS (content management systems) with parachains and scalability and rollout strategies across disparate, publishing CMS ecosystem for publishers; a discuss of how ink! 3.0 from Parity could be used as a primary language for smart contract development; assessing native tokens and the incorporation of open-source projects; exploration of reporting and monitoring tools; research of hosting environments including AWS for suitable, performant ecosystems; dApp scoping for content creation, sharing and trust models in decentralised form focusing on privacy and security
+
 ## Output
 
 To get a sense of the group’s interests, a survey has been carried out among the six main Media Areas, which has determined the order to follow:
