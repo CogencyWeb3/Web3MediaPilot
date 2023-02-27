@@ -66,10 +66,7 @@ Based on the inputs of the first 2 workshops, a specific problem will be selecte
 | Tech Stakeholder | Brian Alford  |Bright Sites|
 | Publisher Stakeholder | Jessica Landon  |Evening Standard|
 | Publisher Stakeholder | Charles Yardley  |Evening Standard|
-| Publisher Stakeholder | Aram Zucker-Scharff   |The Washington Post|
-| Publisher Stakeholder | Davis Shaver  |The Washington Post|
-| Publisher Stakeholder | Holden Foreman  |The Washington Post|
-| Publisher Stakeholder | Jatin Chauhan  |The Washington Post|
+| Publisher Stakeholder | Jatin Chauhan  |Reuters|
 | Publisher Stakeholder | Jane Barrett  |Reuters|
 | Publisher Stakeholder | Sophie Cassam  |Reuters|
 | Publisher Stakeholder | Violaine Degas  |Le Parisien|
