@@ -42,12 +42,12 @@ The following insights can be extracted front the results above:
   - Metadata opportunities
  - The rest of the areas are far away from the winners
 
-We have also depicted the table above using a spider diagram. Each colour is an area, with 5 apexes for each criteria. The two winner areas, yellow and blue, stand out from the rest. 
+We have also depicted the table above using a spider diagram. Each colour is an area, with 5 apexes for each criteria. The two winning areas, yellow and blue, stand out from the rest. 
 
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/114009050/202570730-f030cba4-f865-4375-bdf6-a2872cc5cead.png">
 
 ## Next steps
-During the next sprint, the group will work on outlining a specific solution within the winner areas.
+During the next sprint, the group will work on outlining a specific solution within the winning areas.
 
 | Number        | Workshop      | Date         | Duration     |
 | ------------- | ------------- |------------- |------------- |
