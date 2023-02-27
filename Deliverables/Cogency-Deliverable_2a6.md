@@ -12,19 +12,19 @@
 
 ## Output
 
-From the previous session, the group has decided that the solution should focus in two key areas:
+From the previous session, the group has decided that our solution should focus in two key areas:
 1. Registration, paywalls and micropayments
 2. Metadata opportunities
 
 To solve two main problems:
-1. There is no continuity on metadata on web3
-2. Currently, there is very little on how you extract value from metadata
+1. There is no continuity of metadata in web3 for publishers, content makers and their audiences
+2. Currently, there is very little on how you extract value from metadata for the same cohort with a view to creating a more balanced value exchange between content creator (publisher) and consumer (audience)
 
 With that in mind, an initial framework has been presented to the team. The aim of our solution is to create standardised metadata to produce content in web3, while extracting value from that content in a marketplace. The reason for creating the metadata is to allow us to create a trusted marketplace that works across chains, and to create content assets that can be verified and trusted:
 
 <img width="1138" alt="image" src="https://user-images.githubusercontent.com/114009050/208706779-0b29588b-8eae-445c-9a14-324b3ddfcd9f.png">
 
-First, we’ll present all the actors in the picture above. On the left hand side we have the publisher, who will be creating content from the CMS. On the right hand side, consumers will consume the CMS content produced by the publisher. In between, a trigger, when met, will generate a digital asset representing the user's data. Over the process, there will be a bidirectional reward system for both publishers and consumers, who will earn tokens based on their mutual engagement.
+First, we willll present all the actors in the picture above. On the left hand side we have the publisher, who will be creating content from the CMS. On the right hand side, consumers will consume the CMS content produced by the publisher. In between, a trigger, when met, will generate a digital asset representing the user's data. Over the process, there will be a bidirectional reward system for both publishers and consumers, who will earn tokens based on their mutual engagement.
 
 
 The trigger can manifest as:
@@ -35,10 +35,10 @@ The trigger can manifest as:
 Once one of the previous triggers is met, the digital asset will be created. The digital asset will be an entity holding all the consumer’s metadata: location, reading preferences, subscriptions, level of engagement with a publication, etc. It will become the digital identity of an engaged subscriber bundled in an NFT.
 
 ## Next steps
-After discussing the proposed solution with the team, there’s been some open points and questions that will be the focus to keep refining the solution over the next two weeks:
+After discussing the proposed solution with the team, there have been some open points and questions that will be the focus of future session so we can keep refining the solution over the next two weeks:
 
 - Digital Asset
-  - What, in the CMS, triggers the creation of the digital asset? Could it also be a CTA? Could it be the creation of a page? the creation of a certain type of content? the creation of a subscription/membership?
+  - What, in the CMS, triggers the creation of the digital asset? Could it also be a CTA? Could it be the creation of a page? The creation of a certain type of content? The creation of a subscription/membership?
   - Do we need to create an NFT first? Is it attached to a token or a chain?
   - How is it created and minted on-chain? What does the other side of the technology look like in terms of the asset?
 
@@ -69,7 +69,7 @@ After discussing the proposed solution with the team, there’s been some open p
     - Creating a user profile that the user can trade on having more control over their digital identity.
     - Trade subscriptions.
 
-  - Similar approach but phrasing it differently: a hash representing the digital asset as an output from the CMS with all the metadata (this way we will be avoiding any middlemen) and finally wrap it up in a web bundle to distribute it (web bundle instead of using an NFT, because nowadays NFTs are not having a clear place to live). This process has a variety of uses: strong distribution, bringing costs down, immutable verification token, verifiable content, we can publish content that are not in our own website, and save on infrastructure costs
+  - Similar approach but phrasing it differently: a hash representing the digital asset as an output from the CMS with all the metadata (this way we will be avoiding any middlemen) and finally wrap it up in a web bundle to distribute it (web bundle instead of using an NFT, because nowadays NFTs are not having a clear place to live). This process has a variety of uses: strong distribution, bringing costs down, immutable verification token, verifiable content, we can publish content that are not in our own website, and save on infrastructure costs.
 
   - What are the extra problems we are solving? Ability to access our media from behind paywalls, offline access (now delegated to instapaper or pocket), and ability to have a standard format, access for democracy purposes for users.
 
